@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-slice-to",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return a truncated view of an input ndarray.",
   "license": "Apache-2.0",
   "author": {
