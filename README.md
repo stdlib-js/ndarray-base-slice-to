@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sliceTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-slice-to@deno/mod.js';
+import sliceTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-slice-to@v0.2.0-deno/mod.js';
 ```
 
 #### sliceTo( x, stop, strict, writable )
@@ -123,7 +123,7 @@ The function accepts the following arguments:
 import array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-array@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@deno/mod.js';
 import zeroTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zero-to@deno/mod.js';
-import sliceTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-slice-to@deno/mod.js';
+import sliceTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-slice-to@v0.2.0-deno/mod.js';
 
 // Create a linear ndarray buffer:
 var buf = zeroTo( 27 );
